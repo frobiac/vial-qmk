@@ -11,8 +11,8 @@
 #include <avr/io.h>
 #include "wait.h"
 #include "action_layer.h"
-#include "print.h"
-#include "debug.h"
+// #include "print.h"
+// #include "debug.h"
 #include "util.h"
 #include "matrix.h"
 #include "blackbowl.h"
