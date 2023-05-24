@@ -1,5 +1,7 @@
 USER_NAME := frobiac
 
+# Overridden by userspace rules.mk for `-km vial` compile
+
 VIA_ENABLE = yes
 VIAL_ENABLE = yes
 
